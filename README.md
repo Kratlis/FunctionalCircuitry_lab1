@@ -1,6 +1,7 @@
 # FunctionalCircuitry_lab1
+The first lab on functional circuitry subject
 
-## The first lab on functional circuitry subject
+## Вариант 10 - NAND, дешифратор трёхразрядного кода Грея
 
 ### Task
 1. Опишите на Verilog HDL на вентильном уровне модуль, реализующий функцию БОЭ в указанном логическом базисе согласно варианту задания.
